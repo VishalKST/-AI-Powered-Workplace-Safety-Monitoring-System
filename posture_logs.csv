@@ -1,0 +1,704 @@
+Timestamp,Event
+2025-06-03 15:54:49,Head Tilt Detected
+2025-06-03 15:55:12,Head Tilt Detected
+2025-06-03 15:55:15,Not Looking Straight
+2025-06-03 15:55:18,Head Tilt Detected
+2025-06-03 15:55:21,Not Looking Straight
+2025-06-03 15:55:24,Posture OK
+2025-06-03 15:55:27,Not Looking Straight
+2025-06-03 15:56:28,Not Looking Straight
+2025-06-03 15:56:34,Posture OK
+2025-06-03 16:08:11,Posture OK
+2025-06-03 16:08:11,Not Looking Straight
+2025-06-03 16:08:11,Posture OK
+2025-06-03 16:08:11,Not Looking Straight
+2025-06-03 16:08:12,Posture OK
+2025-06-03 16:08:12,Not Looking Straight
+2025-06-03 16:08:13,Posture OK
+2025-06-03 16:08:13,Not Looking Straight
+2025-06-03 16:08:13,Posture OK
+2025-06-03 16:08:15,Not Looking Straight
+2025-06-03 16:08:16,Posture OK
+2025-06-03 16:08:16,Not Looking Straight
+2025-06-03 16:08:17,Posture OK
+2025-06-03 16:08:20,Not Looking Straight
+2025-06-03 16:08:23,Posture OK
+2025-06-03 16:08:24,Side Tilt Detected
+2025-06-03 16:08:24,Not Looking Straight
+2025-06-03 16:08:25,Posture OK
+2025-06-03 16:08:25,Slouch Detected
+2025-06-03 16:08:25,Not Looking Straight
+2025-06-03 16:08:26,Slouch Detected
+2025-06-03 16:08:27,Posture OK
+2025-06-03 16:08:27,Not Looking Straight
+2025-06-03 16:08:27,Posture OK
+2025-06-03 16:08:29,Not Looking Straight
+2025-06-03 16:08:30,Posture OK
+2025-06-03 16:08:30,Not Looking Straight
+2025-06-03 16:08:30,Posture OK
+2025-06-03 16:18:28,Side Tilt
+2025-06-03 16:18:31,Not Looking Straight
+2025-06-03 16:18:34,Posture OK
+2025-06-03 16:18:39,Not Looking Straight
+2025-06-03 16:19:06,Posture OK
+2025-06-03 16:19:07,Not Looking Straight
+2025-06-03 16:19:07,Posture OK
+2025-06-03 16:19:10,Not Looking Straight
+2025-06-03 16:19:10,Posture OK
+2025-06-03 16:19:13,Not Looking Straight
+2025-06-03 16:19:13,Head Tilt
+2025-06-03 16:19:14,Not Looking Straight
+2025-06-03 16:19:14,Posture OK
+2025-06-03 16:19:16,Head Tilt
+2025-06-03 16:19:17,Posture OK
+2025-06-03 16:19:17,Head Tilt
+2025-06-03 16:19:17,Not Looking Straight
+2025-06-03 16:19:17,Posture OK
+2025-06-03 16:19:18,Not Looking Straight
+2025-06-03 16:19:18,Posture OK
+2025-06-03 16:19:19,Side Tilt
+2025-06-03 16:19:20,Posture OK
+2025-06-03 16:19:20,Not Looking Straight
+2025-06-03 16:19:20,Posture OK
+2025-06-03 16:19:21,Slouch
+2025-06-03 16:19:23,Not Looking Straight
+2025-06-03 16:19:23,Posture OK
+2025-06-03 16:19:24,Not Looking Straight
+2025-06-03 16:19:24,Posture OK
+2025-06-03 16:19:24,Slouch
+2025-06-03 16:19:25,Posture OK
+2025-06-03 16:19:26,Not Looking Straight
+2025-06-03 16:19:26,Head Tilt
+2025-06-03 16:19:26,Not Looking Straight
+2025-06-03 16:19:27,Posture OK
+2025-06-03 16:19:27,Not Looking Straight
+2025-06-03 16:19:27,Posture OK
+2025-06-03 16:19:32,Not Looking Straight
+2025-06-03 16:19:32,Head Tilt
+2025-06-03 16:19:33,Not Looking Straight
+2025-06-03 16:19:33,Posture OK
+2025-06-03 16:19:35,Head Tilt
+2025-06-03 16:19:37,Not Looking Straight
+2025-06-03 16:19:37,Head Tilt
+2025-06-03 16:19:37,Not Looking Straight
+2025-06-03 16:19:37,Posture OK
+2025-06-03 16:19:38,Not Looking Straight
+2025-06-03 16:19:38,Posture OK
+2025-06-03 16:19:38,Not Looking Straight
+2025-06-03 16:19:38,Posture OK
+2025-06-03 16:19:43,Not Looking Straight
+2025-06-03 16:19:44,Head Tilt
+2025-06-03 16:19:44,Not Looking Straight
+2025-06-03 16:19:44,Head Tilt
+2025-06-03 16:19:44,Posture OK
+2025-06-03 16:19:45,Head Tilt
+2025-06-03 16:19:45,Posture OK
+2025-06-03 16:19:46,Not Looking Straight
+2025-06-03 16:19:46,Posture OK
+2025-06-03 16:19:47,Not Looking Straight
+2025-06-03 16:19:47,Posture OK
+2025-06-03 16:19:48,Not Looking Straight
+2025-06-03 16:19:48,Posture OK
+2025-06-03 16:19:48,Not Looking Straight
+2025-06-03 16:19:48,Posture OK
+2025-06-03 16:19:48,Not Looking Straight
+2025-06-03 16:19:48,Head Tilt
+2025-06-03 16:19:48,Not Looking Straight
+2025-06-03 16:19:49,Head Tilt
+2025-06-03 16:19:49,Not Looking Straight
+2025-06-03 16:19:49,Head Tilt
+2025-06-03 16:19:49,Not Looking Straight
+2025-06-03 16:19:49,Posture OK
+2025-06-03 16:19:50,Not Looking Straight
+2025-06-03 16:19:51,Posture OK
+2025-06-03 16:19:52,Head Tilt
+2025-06-03 16:19:52,Not Looking Straight
+2025-06-03 16:19:52,Head Tilt
+2025-06-03 16:19:52,Posture OK
+2025-06-03 16:19:52,Head Tilt
+2025-06-03 16:19:52,Not Looking Straight
+2025-06-03 16:19:52,Posture OK
+2025-06-03 16:19:54,Side Tilt
+2025-06-03 16:19:55,Head Tilt
+2025-06-03 16:19:55,Posture OK
+2025-06-03 16:19:56,Head Tilt
+2025-06-03 16:19:56,Not Looking Straight
+2025-06-03 16:19:56,Posture OK
+2025-06-03 16:19:56,Not Looking Straight
+2025-06-03 16:19:56,Posture OK
+2025-06-03 16:19:57,Not Looking Straight
+2025-06-03 16:19:57,Posture OK
+2025-06-03 16:19:57,Not Looking Straight
+2025-06-03 16:19:57,Posture OK
+2025-06-03 16:19:57,Not Looking Straight
+2025-06-03 16:19:57,Posture OK
+2025-06-03 16:19:58,Not Looking Straight
+2025-06-03 16:19:59,Posture OK
+2025-06-03 16:19:59,Not Looking Straight
+2025-06-03 16:19:59,Posture OK
+2025-06-03 16:19:59,Not Looking Straight
+2025-06-03 16:20:00,Posture OK
+2025-06-03 16:20:00,Not Looking Straight
+2025-06-03 16:20:00,Posture OK
+2025-06-03 16:20:00,Not Looking Straight
+2025-06-03 16:20:00,Posture OK
+2025-06-03 16:20:00,Not Looking Straight
+2025-06-03 16:20:00,Posture OK
+2025-06-03 16:22:01,Not Looking Straight
+2025-06-03 16:22:02,Posture OK
+2025-06-03 16:22:02,Slouch Detected
+2025-06-03 16:22:02,Not Looking Straight
+2025-06-03 16:22:03,Posture OK
+2025-06-03 16:22:04,Not Looking Straight
+2025-06-03 16:22:05,Posture OK
+2025-06-03 16:22:09,Not Looking Straight
+2025-06-03 16:22:10,Posture OK
+2025-06-03 16:22:10,Not Looking Straight
+2025-06-03 16:22:10,Posture OK
+2025-06-03 16:22:10,Not Looking Straight
+2025-06-03 16:22:10,Posture OK
+2025-06-03 16:22:10,Head Tilt Detected
+2025-06-03 16:22:10,Posture OK
+2025-06-03 16:22:11,Head Tilt Detected
+2025-06-03 16:22:11,Posture OK
+2025-06-03 16:22:12,Not Looking Straight
+2025-06-03 16:22:12,Posture OK
+2025-06-03 16:22:12,Side Tilt Detected
+2025-06-03 16:22:13,Not Looking Straight
+2025-06-03 16:22:13,Posture OK
+2025-06-03 16:22:14,Not Looking Straight
+2025-06-03 16:22:14,Posture OK
+2025-06-03 16:22:14,Not Looking Straight
+2025-06-03 16:22:14,Posture OK
+2025-06-03 16:22:14,Side Tilt Detected
+2025-06-03 16:22:15,Not Looking Straight
+2025-06-03 16:22:15,Side Tilt Detected
+2025-06-03 16:22:15,Not Looking Straight
+2025-06-03 16:22:16,Posture OK
+2025-06-03 16:22:17,Not Looking Straight
+2025-06-03 16:22:17,Posture OK
+2025-06-03 16:22:17,Not Looking Straight
+2025-06-03 16:22:19,Posture OK
+2025-06-03 16:22:19,Head Tilt Detected
+2025-06-03 16:22:19,Not Looking Straight
+2025-06-03 16:22:20,Posture OK
+2025-06-03 16:22:21,Not Looking Straight
+2025-06-03 16:22:21,Posture OK
+2025-06-03 16:22:26,Not Looking Straight
+2025-06-03 16:22:28,Posture OK
+2025-06-03 16:22:28,Not Looking Straight
+2025-06-03 16:22:28,Posture OK
+2025-06-03 16:22:29,Not Looking Straight
+2025-06-03 16:22:29,Posture OK
+2025-06-03 16:22:29,Not Looking Straight
+2025-06-03 16:22:30,Posture OK
+2025-06-03 16:22:30,Not Looking Straight
+2025-06-03 16:22:32,Posture OK
+2025-06-03 16:22:33,Head Tilt Detected
+2025-06-03 16:22:33,Posture OK
+2025-06-03 16:22:34,Head Tilt Detected
+2025-06-03 16:22:34,Posture OK
+2025-06-03 16:22:35,Side Tilt Detected
+2025-06-03 16:22:35,Not Looking Straight
+2025-06-03 16:22:35,Side Tilt Detected
+2025-06-03 16:22:35,Not Looking Straight
+2025-06-03 16:22:36,Side Tilt Detected
+2025-06-03 16:22:36,Posture OK
+2025-06-03 16:22:36,Not Looking Straight
+2025-06-03 16:22:37,Posture OK
+2025-06-03 16:22:37,Not Looking Straight
+2025-06-03 16:22:37,Posture OK
+2025-06-03 16:22:37,Not Looking Straight
+2025-06-03 16:22:37,Posture OK
+2025-06-03 16:22:37,Not Looking Straight
+2025-06-03 16:22:37,Posture OK
+2025-06-03 16:22:44,Not Looking Straight
+2025-06-03 16:22:44,Posture OK
+2025-06-03 16:22:44,Not Looking Straight
+2025-06-03 16:22:44,Head Tilt Detected
+2025-06-03 16:22:44,Posture OK
+2025-06-03 16:22:47,Not Looking Straight
+2025-06-03 16:22:47,Posture OK
+2025-06-03 16:22:47,Not Looking Straight
+2025-06-03 16:22:48,Posture OK
+2025-06-03 16:22:51,Not Looking Straight
+2025-06-03 16:22:52,Posture OK
+2025-06-03 16:26:31,Not Looking Straight
+2025-06-03 16:26:32,Slouch Detected
+2025-06-03 16:26:32,Not Looking Straight
+2025-06-03 16:26:32,Slouch Detected
+2025-06-03 16:26:32,Not Looking Straight
+2025-06-03 16:26:33,Slouch Detected
+2025-06-03 16:26:33,Not Looking Straight
+2025-06-03 16:26:36,Side Tilt Detected
+2025-06-03 16:26:36,Not Looking Straight
+2025-06-03 16:26:36,Side Tilt Detected
+2025-06-03 16:26:37,Not Looking Straight
+2025-06-03 16:26:37,Posture OK
+2025-06-03 16:26:38,Not Looking Straight
+2025-06-03 16:26:38,Posture OK
+2025-06-03 16:26:38,Not Looking Straight
+2025-06-03 16:26:38,Posture OK
+2025-06-03 16:26:40,Not Looking Straight
+2025-06-03 16:26:40,Posture OK
+2025-06-03 16:26:40,Not Looking Straight
+2025-06-03 16:26:41,Posture OK
+2025-06-03 16:26:41,Not Looking Straight
+2025-06-03 16:26:41,Posture OK
+2025-06-03 16:26:41,Not Looking Straight
+2025-06-03 16:26:41,Posture OK
+2025-06-03 16:26:46,Not Looking Straight
+2025-06-03 16:26:46,Posture OK
+2025-06-03 16:26:48,Not Looking Straight
+2025-06-03 16:26:49,Posture OK
+2025-06-03 16:26:49,Not Looking Straight
+2025-06-03 16:26:50,Posture OK
+2025-06-03 16:26:50,Not Looking Straight
+2025-06-03 16:26:51,Posture OK
+2025-06-03 16:26:51,Not Looking Straight
+2025-06-03 16:26:51,Posture OK
+2025-06-03 16:26:52,Not Looking Straight
+2025-06-03 16:26:52,Posture OK
+2025-06-03 16:26:52,Not Looking Straight
+2025-06-03 16:26:53,Posture OK
+2025-06-03 16:26:53,Not Looking Straight
+2025-06-03 16:26:53,Posture OK
+2025-06-03 16:26:53,Not Looking Straight
+2025-06-03 16:26:54,Posture OK
+2025-06-03 16:26:54,Not Looking Straight
+2025-06-03 16:26:54,Posture OK
+2025-06-03 16:26:55,Not Looking Straight
+2025-06-03 16:26:55,Posture OK
+2025-06-03 16:26:57,Not Looking Straight
+2025-06-03 16:26:57,Posture OK
+2025-06-03 16:26:57,Not Looking Straight
+2025-06-03 16:26:57,Posture OK
+2025-06-03 16:27:05,Not Looking Straight
+2025-06-03 16:27:05,Posture OK
+2025-06-03 16:27:05,Not Looking Straight
+2025-06-03 16:27:05,Posture OK
+2025-06-03 16:27:05,Not Looking Straight
+2025-06-03 16:27:05,Posture OK
+2025-06-03 16:27:06,Not Looking Straight
+2025-06-03 16:27:06,Posture OK
+2025-06-03 16:27:06,Not Looking Straight
+2025-06-03 16:27:06,Posture OK
+2025-06-03 16:27:08,Not Looking Straight
+2025-06-03 16:27:08,Posture OK
+2025-06-03 16:27:08,Not Looking Straight
+2025-06-03 16:27:08,Posture OK
+2025-06-03 16:27:08,Not Looking Straight
+2025-06-03 16:27:10,Posture OK
+2025-06-03 16:55:41,Posture OK
+2025-06-03 16:55:56,Not Looking Straight
+2025-06-03 16:55:57,Posture OK
+2025-06-03 16:55:57,Not Looking Straight
+2025-06-03 16:55:58,Posture OK
+2025-06-03 16:55:58,Not Looking Straight
+2025-06-03 16:55:58,Posture OK
+2025-06-03 16:55:58,Not Looking Straight
+2025-06-03 16:55:59,Posture OK
+2025-06-03 16:55:59,Not Looking Straight
+2025-06-03 16:55:59,Posture OK
+2025-06-03 16:55:59,Not Looking Straight
+2025-06-03 16:56:02,Posture OK
+2025-06-03 16:56:02,Head Tilt Detected
+2025-06-03 16:56:03,Posture OK
+2025-06-03 16:56:04,Not Looking Straight
+2025-06-03 16:56:04,Posture OK
+2025-06-03 16:56:05,Not Looking Straight
+2025-06-03 16:56:05,Posture OK
+2025-06-03 16:56:05,Not Looking Straight
+2025-06-03 16:56:05,Posture OK
+2025-06-03 16:56:06,Not Looking Straight
+2025-06-03 16:56:06,Posture OK
+2025-06-03 16:56:06,Not Looking Straight
+2025-06-03 16:56:07,Posture OK
+2025-06-03 16:56:10,Not Looking Straight
+2025-06-03 16:56:10,Side Tilt Detected
+2025-06-03 16:56:10,Not Looking Straight
+2025-06-03 16:56:10,Side Tilt Detected
+2025-06-03 16:56:10,Posture OK
+2025-06-03 16:56:10,Not Looking Straight
+2025-06-03 16:56:11,Posture OK
+2025-06-03 16:56:11,Head Tilt Detected
+2025-06-03 16:56:11,Posture OK
+2025-06-03 16:56:13,Not Looking Straight
+2025-06-03 16:56:20,Posture OK
+2025-06-03 16:56:20,Not Looking Straight
+2025-06-03 16:56:21,Posture OK
+2025-06-03 16:56:30,Not Looking Straight
+2025-06-03 16:56:32,Posture OK
+2025-06-03 16:56:32,Not Looking Straight
+2025-06-03 16:56:33,Side Tilt Detected
+2025-06-03 16:56:33,Not Looking Straight
+2025-06-03 16:56:33,Side Tilt Detected
+2025-06-03 16:56:34,Not Looking Straight
+2025-06-03 16:56:35,Side Tilt Detected
+2025-06-03 16:56:35,Not Looking Straight
+2025-06-03 16:56:35,Side Tilt Detected
+2025-06-03 16:56:35,Not Looking Straight
+2025-06-03 16:56:35,Side Tilt Detected
+2025-06-03 16:56:36,Not Looking Straight
+2025-06-03 16:56:41,Posture OK
+2025-06-03 16:56:55,Not Looking Straight
+2025-06-03 16:56:55,Posture OK
+2025-06-03 16:56:55,Slouch Detected
+2025-06-03 16:56:58,Not Looking Straight
+2025-06-03 16:56:58,Slouch Detected
+2025-06-03 16:56:59,Not Looking Straight
+2025-06-03 16:56:59,Slouch Detected
+2025-06-03 16:56:59,Not Looking Straight
+2025-06-03 16:56:59,Slouch Detected
+2025-06-03 16:57:01,Not Looking Straight
+2025-06-03 16:57:01,Slouch Detected
+2025-06-03 16:57:02,Not Looking Straight
+2025-06-03 16:57:03,Slouch Detected
+2025-06-03 16:57:03,Posture OK
+2025-06-03 16:57:04,Not Looking Straight
+2025-06-03 16:57:04,Posture OK
+2025-06-03 16:57:04,Not Looking Straight
+2025-06-03 16:57:04,Posture OK
+2025-06-03 16:57:08,Not Looking Straight
+2025-06-03 16:57:08,Posture OK
+2025-06-03 16:57:09,Not Looking Straight
+2025-06-03 16:57:09,Posture OK
+2025-06-03 16:57:10,Not Looking Straight
+2025-06-03 16:57:10,Posture OK
+2025-06-03 16:57:11,Not Looking Straight
+2025-06-03 16:57:11,Posture OK
+2025-06-03 16:57:11,Not Looking Straight
+2025-06-03 16:57:11,Posture OK
+2025-06-03 16:57:12,Not Looking Straight
+2025-06-03 16:57:12,Posture OK
+2025-06-03 16:57:12,Not Looking Straight
+2025-06-03 16:57:12,Posture OK
+2025-06-03 16:57:13,Not Looking Straight
+2025-06-03 16:57:13,Posture OK
+2025-06-03 16:57:13,Not Looking Straight
+2025-06-03 16:57:13,Posture OK
+2025-06-03 16:57:13,Not Looking Straight
+2025-06-03 16:57:13,Posture OK
+2025-06-03 16:57:13,Not Looking Straight
+2025-06-03 16:57:13,Posture OK
+2025-06-03 16:57:13,Not Looking Straight
+2025-06-03 16:57:14,Posture OK
+2025-06-03 16:57:14,Not Looking Straight
+2025-06-03 16:57:14,Posture OK
+2025-06-03 16:57:16,Not Looking Straight
+2025-06-03 16:57:16,Posture OK
+2025-06-03 16:57:16,Not Looking Straight
+2025-06-03 16:57:16,Posture OK
+2025-06-03 18:10:35,Head Tilt Detected
+2025-06-03 18:10:35,Side Tilt Detected
+2025-06-03 18:10:35,Head Tilt Detected
+2025-06-03 18:10:35,Not Looking Straight
+2025-06-03 18:10:37,Side Tilt Detected
+2025-06-03 18:10:37,Posture OK
+2025-06-03 18:10:37,Side Tilt Detected
+2025-06-03 18:10:37,Posture OK
+2025-06-03 18:10:38,Side Tilt Detected
+2025-06-03 18:10:40,Posture OK
+2025-06-03 18:10:43,Not Looking Straight
+2025-06-03 18:10:45,Posture OK
+2025-06-03 18:10:45,Slouch Detected
+2025-06-03 18:10:47,Posture OK
+2025-06-03 18:10:48,Not Looking Straight
+2025-06-03 18:10:48,Side Tilt Detected
+2025-06-03 18:10:49,Not Looking Straight
+2025-06-03 18:10:49,Posture OK
+2025-06-03 18:10:50,Not Looking Straight
+2025-06-03 18:10:51,Posture OK
+2025-06-03 18:10:51,Not Looking Straight
+2025-06-03 18:10:52,Posture OK
+2025-06-03 18:10:54,Not Looking Straight
+2025-06-03 18:11:08,Head Tilt Detected
+2025-06-03 18:11:08,Posture OK
+2025-06-03 18:11:09,Head Tilt Detected
+2025-06-03 18:11:09,Posture OK
+2025-06-03 18:11:09,Side Tilt Detected
+2025-06-03 18:11:11,Head Tilt Detected
+2025-06-03 18:11:11,Not Looking Straight
+2025-06-03 18:11:11,Head Tilt Detected
+2025-06-03 18:11:12,Not Looking Straight
+2025-06-03 18:11:12,Head Tilt Detected
+2025-06-03 18:11:13,Not Looking Straight
+2025-06-03 18:11:23,Head Tilt Detected
+2025-06-03 18:11:23,Not Looking Straight
+2025-06-09 13:01:17,Posture OK
+2025-06-09 13:01:17,Side Tilt Detected
+2025-06-09 13:01:17,Not Looking Straight
+2025-06-09 13:01:17,Side Tilt Detected
+2025-06-09 13:01:17,Not Looking Straight
+2025-06-09 13:01:18,Side Tilt Detected
+2025-06-09 13:01:18,Not Looking Straight
+2025-06-09 13:01:18,Side Tilt Detected
+2025-06-09 13:01:18,Slouch Detected
+2025-06-09 13:01:19,Posture OK
+2025-06-09 13:01:21,Side Tilt Detected
+2025-06-09 13:01:21,Not Looking Straight
+2025-06-09 13:01:21,Side Tilt Detected
+2025-06-09 13:01:22,Slouch Detected
+2025-06-09 13:01:22,Posture OK
+2025-06-09 13:01:24,Slouch Detected
+2025-06-09 13:01:25,Side Tilt Detected
+2025-06-09 13:01:25,Slouch Detected
+2025-06-09 13:01:26,Side Tilt Detected
+2025-06-09 13:01:27,Slouch Detected
+2025-06-09 13:01:27,Not Looking Straight
+2025-06-09 13:01:28,Slouch Detected
+2025-06-09 18:03:22,Side Tilt Detected
+2025-06-09 18:03:22,Posture OK
+2025-06-09 18:03:23,Side Tilt Detected
+2025-06-09 18:03:23,Posture OK
+2025-06-09 18:03:28,Side Tilt Detected
+2025-06-09 18:03:28,Posture OK
+2025-06-09 18:03:29,Side Tilt Detected
+2025-06-09 18:03:29,Posture OK
+2025-06-09 18:03:30,Side Tilt Detected
+2025-06-09 18:03:30,Posture OK
+2025-06-09 18:03:30,Side Tilt Detected
+2025-06-09 18:03:31,Posture OK
+2025-06-09 18:03:33,Side Tilt Detected
+2025-06-09 18:03:33,Posture OK
+2025-06-09 18:03:35,Side Tilt Detected
+2025-06-09 18:03:35,Posture OK
+2025-06-09 18:03:36,Slouch Detected
+2025-06-09 18:03:36,Side Tilt Detected
+2025-06-09 18:03:36,Posture OK
+2025-06-09 18:03:36,Slouch Detected
+2025-06-09 18:03:37,Side Tilt Detected
+2025-06-09 18:03:37,Slouch Detected
+2025-06-09 18:03:37,Side Tilt Detected
+2025-06-09 18:03:39,Slouch Detected
+2025-06-09 18:03:40,Side Tilt Detected
+2025-06-09 18:03:40,Slouch Detected
+2025-06-09 18:03:40,Posture OK
+2025-06-09 18:03:43,Side Tilt Detected
+2025-06-09 18:03:44,Posture OK
+2025-06-09 18:03:46,Side Tilt Detected
+2025-06-09 18:03:48,Posture OK
+2025-06-09 18:03:48,Side Tilt Detected
+2025-06-09 18:03:48,Posture OK
+2025-06-09 18:03:48,Side Tilt Detected
+2025-06-09 18:03:48,Posture OK
+2025-06-09 18:03:51,Side Tilt Detected
+2025-06-09 18:03:52,Posture OK
+2025-06-09 18:03:52,Side Tilt Detected
+2025-06-09 18:03:56,Not Looking Straight
+2025-06-09 18:03:56,Side Tilt Detected
+2025-06-09 18:03:56,Not Looking Straight
+2025-06-09 18:03:56,Side Tilt Detected
+2025-06-09 18:04:02,Posture OK
+2025-06-09 18:04:02,Side Tilt Detected
+2025-06-09 18:04:02,Not Looking Straight
+2025-06-09 18:04:02,Side Tilt Detected
+2025-06-09 18:04:03,Not Looking Straight
+2025-06-09 18:04:03,Side Tilt Detected
+2025-06-09 18:04:03,Not Looking Straight
+2025-06-09 18:04:03,Side Tilt Detected
+2025-06-09 18:04:03,Head Tilt Detected
+2025-06-09 18:04:04,Not Looking Straight
+2025-06-09 18:04:04,Side Tilt Detected
+2025-06-09 18:04:07,Head Tilt Detected
+2025-06-09 18:04:07,Not Looking Straight
+2025-06-09 18:04:08,Side Tilt Detected
+2025-06-09 18:04:09,Not Looking Straight
+2025-06-09 18:04:09,Head Tilt Detected
+2025-06-09 18:04:09,Not Looking Straight
+2025-06-09 18:04:10,Side Tilt Detected
+2025-06-09 18:04:10,Not Looking Straight
+2025-06-09 18:04:12,Head Tilt Detected
+2025-06-09 18:04:13,Not Looking Straight
+2025-06-09 18:04:13,Head Tilt Detected
+2025-06-09 18:04:13,Side Tilt Detected
+2025-06-09 18:04:13,Not Looking Straight
+2025-06-09 18:04:13,Side Tilt Detected
+2025-06-09 18:04:13,Not Looking Straight
+2025-06-09 18:04:14,Head Tilt Detected
+2025-06-09 18:04:14,Not Looking Straight
+2025-06-09 18:04:15,Head Tilt Detected
+2025-06-09 18:04:15,Not Looking Straight
+2025-06-09 18:04:15,Head Tilt Detected
+2025-06-09 18:04:15,Not Looking Straight
+2025-06-09 18:04:16,Side Tilt Detected
+2025-06-09 18:04:17,Not Looking Straight
+2025-06-09 18:04:17,Side Tilt Detected
+2025-06-09 18:04:18,Head Tilt Detected
+2025-06-09 18:04:18,Side Tilt Detected
+2025-06-09 18:04:18,Head Tilt Detected
+2025-06-09 18:04:18,Side Tilt Detected
+2025-06-09 18:04:18,Head Tilt Detected
+2025-06-09 18:04:19,Side Tilt Detected
+2025-06-09 18:04:19,Head Tilt Detected
+2025-06-09 18:04:19,Not Looking Straight
+2025-06-09 18:04:19,Head Tilt Detected
+2025-06-09 18:04:19,Not Looking Straight
+2025-06-09 18:04:20,Side Tilt Detected
+2025-06-09 18:04:20,Head Tilt Detected
+2025-06-09 18:04:20,Side Tilt Detected
+2025-06-09 18:04:21,Not Looking Straight
+2025-06-09 18:05:17,Side Tilt Detected
+2025-06-09 18:05:17,Posture OK
+2025-06-09 18:05:17,Side Tilt Detected
+2025-06-09 18:05:19,Head Tilt Detected
+2025-06-09 18:05:19,Posture OK
+2025-06-09 18:05:19,Head Tilt Detected
+2025-06-09 18:05:19,Posture OK
+2025-06-09 18:05:19,Head Tilt Detected
+2025-06-09 18:05:19,Not Looking Straight
+2025-06-09 18:05:20,Posture OK
+2025-06-09 18:05:20,Not Looking Straight
+2025-06-09 18:05:21,Posture OK
+2025-06-09 18:05:21,Head Tilt Detected
+2025-06-09 18:05:21,Posture OK
+2025-06-09 18:05:21,Head Tilt Detected
+2025-06-09 18:05:21,Posture OK
+2025-06-09 18:05:21,Not Looking Straight
+2025-06-09 18:05:22,Posture OK
+2025-06-09 18:05:22,Side Tilt Detected
+2025-06-09 18:05:22,Posture OK
+2025-06-09 18:05:23,Side Tilt Detected
+2025-06-09 18:05:23,Not Looking Straight
+2025-06-09 18:05:23,Side Tilt Detected
+2025-06-09 18:05:23,Posture OK
+2025-06-09 18:05:23,Side Tilt Detected
+2025-06-09 18:05:23,Posture OK
+2025-06-09 18:05:23,Side Tilt Detected
+2025-06-09 18:05:24,Head Tilt Detected
+2025-06-09 18:05:24,Posture OK
+2025-06-09 18:05:24,Not Looking Straight
+2025-06-09 18:05:24,Posture OK
+2025-06-09 18:05:24,Side Tilt Detected
+2025-06-09 18:05:24,Not Looking Straight
+2025-06-09 18:05:24,Side Tilt Detected
+2025-06-09 18:05:25,Posture OK
+2025-06-09 18:05:25,Side Tilt Detected
+2025-06-09 18:05:25,Head Tilt Detected
+2025-06-09 18:05:25,Posture OK
+2025-06-09 18:05:25,Not Looking Straight
+2025-06-09 18:05:26,Posture OK
+2025-06-09 18:05:26,Not Looking Straight
+2025-06-09 18:05:26,Posture OK
+2025-06-09 18:05:26,Not Looking Straight
+2025-06-09 18:05:26,Posture OK
+2025-06-09 18:05:26,Not Looking Straight
+2025-06-09 18:05:27,Side Tilt Detected
+2025-06-09 18:05:27,Posture OK
+2025-06-09 18:05:30,Side Tilt Detected
+2025-06-09 18:05:30,Not Looking Straight
+2025-06-09 18:05:30,Side Tilt Detected
+2025-06-09 18:05:30,Not Looking Straight
+2025-06-09 18:05:30,Side Tilt Detected
+2025-06-09 18:05:30,Not Looking Straight
+2025-06-09 18:05:30,Side Tilt Detected
+2025-06-09 18:05:30,Not Looking Straight
+2025-06-09 18:05:31,Side Tilt Detected
+2025-06-09 18:05:31,Not Looking Straight
+2025-06-09 18:05:31,Posture OK
+2025-06-09 18:05:31,Side Tilt Detected
+2025-06-09 18:05:34,Not Looking Straight
+2025-06-09 18:05:34,Posture OK
+2025-06-09 18:05:35,Not Looking Straight
+2025-06-09 18:05:35,Posture OK
+2025-06-09 18:05:35,Not Looking Straight
+2025-06-09 18:05:36,Posture OK
+2025-06-09 18:05:36,Head Tilt Detected
+2025-06-09 18:05:36,Posture OK
+2025-06-09 18:05:36,Head Tilt Detected
+2025-06-09 18:05:36,Posture OK
+2025-06-09 18:05:36,Head Tilt Detected
+2025-06-09 18:05:36,Posture OK
+2025-06-09 18:05:37,Not Looking Straight
+2025-06-09 18:05:37,Side Tilt Detected
+2025-06-09 18:05:37,Posture OK
+2025-06-09 18:05:37,Side Tilt Detected
+2025-06-09 18:05:37,Posture OK
+2025-06-09 18:05:38,Not Looking Straight
+2025-06-09 18:05:39,Posture OK
+2025-06-09 18:05:39,Not Looking Straight
+2025-06-09 18:05:40,Posture OK
+2025-06-09 18:05:40,Not Looking Straight
+2025-06-09 18:05:41,Posture OK
+2025-06-09 18:05:42,Not Looking Straight
+2025-06-09 18:05:42,Posture OK
+2025-06-09 18:05:43,Side Tilt Detected
+2025-06-09 18:05:43,Posture OK
+2025-06-09 18:05:43,Side Tilt Detected
+2025-06-09 18:05:43,Not Looking Straight
+2025-06-09 18:05:43,Side Tilt Detected
+2025-06-09 18:05:43,Not Looking Straight
+2025-06-09 18:05:43,Posture OK
+2025-06-09 18:05:45,Not Looking Straight
+2025-06-09 18:05:45,Posture OK
+2025-06-09 18:05:45,Not Looking Straight
+2025-06-09 18:05:45,Posture OK
+2025-06-09 18:05:45,Not Looking Straight
+2025-06-09 18:05:45,Posture OK
+2025-06-09 18:05:45,Not Looking Straight
+2025-06-09 18:05:45,Posture OK
+2025-06-09 18:05:45,Side Tilt Detected
+2025-06-09 18:05:46,Posture OK
+2025-06-09 18:05:46,Not Looking Straight
+2025-06-09 18:05:47,Side Tilt Detected
+2025-06-09 18:05:47,Not Looking Straight
+2025-06-09 18:05:48,Side Tilt Detected
+2025-06-09 18:05:48,Not Looking Straight
+2025-06-09 18:05:49,Posture OK
+2025-06-09 18:05:51,Not Looking Straight
+2025-06-09 18:05:51,Posture OK
+2025-06-09 18:05:51,Not Looking Straight
+2025-06-09 18:05:51,Posture OK
+2025-06-09 18:05:53,Not Looking Straight
+2025-06-09 18:05:54,Posture OK
+2025-06-09 18:05:54,Not Looking Straight
+2025-06-09 18:05:54,Posture OK
+2025-06-09 18:05:54,Not Looking Straight
+2025-06-09 18:05:54,Posture OK
+2025-06-09 18:05:55,Not Looking Straight
+2025-06-09 18:05:55,Posture OK
+2025-06-09 18:05:55,Not Looking Straight
+2025-06-09 18:05:55,Posture OK
+2025-06-09 18:05:55,Not Looking Straight
+2025-06-09 18:05:55,Posture OK
+2025-06-09 18:05:56,Not Looking Straight
+2025-06-09 18:05:56,Posture OK
+2025-06-09 18:05:56,Not Looking Straight
+2025-06-09 18:05:56,Posture OK
+2025-06-09 18:06:00,Not Looking Straight
+2025-06-09 18:06:01,Posture OK
+2025-06-09 18:06:01,Not Looking Straight
+2025-06-09 18:06:01,Posture OK
+2025-06-09 18:06:01,Not Looking Straight
+2025-06-09 18:06:02,Posture OK
+2025-06-09 18:06:02,Not Looking Straight
+2025-06-09 18:06:02,Posture OK
+2025-06-09 18:06:02,Not Looking Straight
+2025-06-09 18:06:02,Posture OK
+2025-06-09 18:06:03,Head Tilt Detected
+2025-06-09 18:06:03,Posture OK
+2025-06-09 18:06:03,Not Looking Straight
+2025-06-09 18:06:03,Posture OK
+2025-06-09 18:06:04,Not Looking Straight
+2025-06-09 18:06:04,Posture OK
+2025-06-09 18:06:04,Not Looking Straight
+2025-06-09 18:06:04,Posture OK
+2025-06-09 18:06:04,Not Looking Straight
+2025-06-09 18:06:04,Posture OK
+2025-06-09 18:06:05,Not Looking Straight
+2025-06-09 18:06:05,Posture OK
+2025-06-09 18:06:05,Not Looking Straight
+2025-06-09 18:06:06,Head Tilt Detected
+2025-06-09 18:06:06,Not Looking Straight
+2025-06-09 18:06:11,Posture OK
+2025-06-09 18:06:15,Side Tilt Detected
+2025-06-09 18:06:16,Posture OK
+2025-06-09 18:06:18,Side Tilt Detected
+2025-06-09 18:06:18,Not Looking Straight
+2025-06-09 18:06:18,Side Tilt Detected
+2025-06-09 18:06:19,Not Looking Straight
+2025-06-09 18:06:19,Side Tilt Detected
+2025-06-09 18:06:19,Not Looking Straight
+2025-06-09 18:06:19,Side Tilt Detected
+2025-06-09 18:06:19,Not Looking Straight
+2025-06-09 18:06:19,Side Tilt Detected
